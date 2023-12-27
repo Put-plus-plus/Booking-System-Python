@@ -1,1 +1,1 @@
-# Booking-System-Python
+# Lab equipment Booking-System-Python
