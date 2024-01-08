@@ -8,7 +8,7 @@ The `BookingDatabase` class has a `create_table()` method to create an SQLite3 d
 * Python version 3.9.1
 * Sqlite3 ???, Time, Datetime, Logging, Tkinter, Random, String, Numpy, Calendar
 
-## Execution - X flow sorter booking system 
+## Execution - laboratory booking system example
 ```python
 example_db_start_date = '2003-05-02'
 example_apparatus_name = 'TSQQuantum'
@@ -17,5 +17,5 @@ example_user_departments = ['Ornithology', 'Physics', 'Chemistry']
 BookingGUI(example_apparatus_name, example_users, example_user_departments, example_db_start_date)
 ```
 
-## Animation - X flow sorter booking system 
+## Animation - laboratory booking system example 
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
