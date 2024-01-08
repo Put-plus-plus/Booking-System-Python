@@ -10,8 +10,11 @@ The `BookingDatabase` class has a `create_table()` method to create an SQLite3 d
 
 ## Execution - X flow sorter booking system 
 ```python
-Flashcards() #replace this 
-# OUTPUT: something
+example_db_start_date = '2003-05-02'
+example_apparatus_name = 'TSQQuantum'
+example_users = ['Dr J Watson', 'Dr F Crick', 'Dr L Pauling', 'Dr E Schroedinger'] 
+example_user_departments = ['Ornithology', 'Physics', 'Chemistry'] 
+BookingGUI(example_apparatus_name, example_users, example_user_departments, example_db_start_date)
 ```
 
 ## Animation - X flow sorter booking system 
