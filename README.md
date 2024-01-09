@@ -13,7 +13,7 @@ The `BookingDatabase` class has a `sql_initiate_database()` method to create a t
 ```python
 first_bookable_date = '2003-05-02'
 equipment_name = 'TSQQuantum'
-users = ['Dr J Watson', 'Dr F Crick', 'Dr L Pauling', 'Dr E Schroedinger'] 
+users = ['Dr J Watson', 'Dr F Crick', 'Dr L Pauling', 'Dr E Schrödinger'] 
 user_departments = ['Ornithology', 'Physics', 'Chemistry'] 
 BookingSystem(equipment_name, users, user_departments, first_bookable_date)
 ```
