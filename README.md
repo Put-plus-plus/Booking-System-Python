@@ -9,7 +9,7 @@ The `BookingDatabase` class has a `sql_initiate_database()` method to create a t
 * Python 3.9.1
 * sqlite3 3.33.0, datetime (built-in), logging (built-in), tkinter (built-in), random (built-in), string (built-in), calendar (built-in), re (built-in)
  
-## Execution - laboratory booking system example
+## Execution - cell sorter booking system example   
 ```python
 from booking_system import *
 
