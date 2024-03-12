@@ -23,6 +23,6 @@ BookingWindow(sorter_apparatus_name, sorter_booking_name, sorter_booking_departm
 ```
 
 ## Animation - cell sorter booking system example
-<video src="https://github.com/Put-plus-plus/Booking-System-Python/blob/main/cell_sorter_booking_system_example_animation.mp4"></video>
+<https://github.com/Put-plus-plus/Booking-System-Python/blob/main/cell_sorter_booking_system_example_animation.mp4>
 
 
