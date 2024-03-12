@@ -20,5 +20,5 @@ cell_sorter_first_slot_date = '2024-08-21'
 BookingWindow(cell_sorter_apparatus_name, cell_sorter_booking_name, cell_sorter_booking_department, cell_sorter_first_slot_date)
 ```
 
-## Animation - laboratory booking system example 
+## Animation - cell sorter booking system example
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
