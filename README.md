@@ -11,11 +11,13 @@ The `BookingDatabase` class has a `sql_initiate_database()` method to create a t
  
 ## Execution - laboratory booking system example
 ```python
-first_bookable_date = '2003-05-02'
-equipment_name = 'TSQQuantum'
-users = ['Dr J Watson', 'Dr F Crick', 'Dr L Pauling', 'Dr E Schrödinger'] 
-user_departments = ['Ornithology', 'Physics', 'Chemistry'] 
-BookingSystem(equipment_name, users, user_departments, first_bookable_date)
+from booking_system import *
+
+cell_sorter_apparatus_name = 'BDFACSMelody'
+cell_sorter_booking_name =  ['Dr E Chargaff', 'Dr F Crick', 'Dr M Delbrück', 'Dr L Pauling', 'Dr J Watson'] 
+cell_sorter_booking_department = ['Ornithology', 'Physics', 'Biochemistry', 'Chemistry']
+cell_sorter_first_slot_date = '2024-08-21'
+BookingWindow(cell_sorter_apparatus_name, cell_sorter_booking_name, cell_sorter_booking_department, cell_sorter_first_slot_date)
 ```
 
 ## Animation - laboratory booking system example 
