@@ -19,11 +19,11 @@ The `BookingWindow` class accepts apparatus_name_admin_input, booking_name_admin
 ```python
 from booking_system import *
 
-cell_sorter_apparatus_name = 'BDFACSMelody'
-cell_sorter_booking_name =  ['Dr E Chargaff', 'Dr F Crick', 'Dr M Delbrück', 'Dr L Pauling', 'Dr J Watson'] 
-cell_sorter_booking_department = ['Ornithology', 'Physics', 'Biochemistry', 'Chemistry']
-cell_sorter_first_slot_date = '2024-08-21'
-BookingWindow(cell_sorter_apparatus_name, cell_sorter_booking_name, cell_sorter_booking_department, cell_sorter_first_slot_date)
+sorter_apparatus_name = 'BDFACSMelody'
+sorter_booking_name =  ['Dr E Chargaff', 'Dr F Crick', 'Dr M Delbrück', 'Dr L Pauling', 'Dr J Watson'] 
+sorter_booking_department = ['Ornithology', 'Physics', 'Biochemistry', 'Chemistry']
+sorter_first_slot_date = '2024-08-21'
+BookingWindow(sorter_apparatus_name, sorter_booking_name, sorter_booking_department, sorter_first_slot_date)
 ```
 
 ## Animation - cell sorter booking system example
