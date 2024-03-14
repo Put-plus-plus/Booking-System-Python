@@ -23,6 +23,7 @@ BookingWindow(sorter_apparatus_name, sorter_booking_name, sorter_booking_departm
 ```
 
 ## Animation - booking system example
+https://github.com/Put-plus-plus/Booking-System-Python/assets/153921921/7f7c2d79-730a-4976-bfc1-e75354772728
 
 
 
