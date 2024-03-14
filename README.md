@@ -11,7 +11,7 @@ The `BookingDatabase` class has a `create_log()` method that launches an error l
 * Python 3.9.1
 * sqlite3 3.33.0, datetime (built-in), logging (built-in), tkinter (built-in), random (built-in), string (built-in), calendar (built-in), re (built-in)
  
-## Execution - cell sorter booking system example   
+## Execution - booking system example   
 ```python
 from booking_system import *
 
@@ -22,7 +22,7 @@ sorter_first_slot_date = '2024-08-21'
 BookingWindow(sorter_apparatus_name, sorter_booking_name, sorter_booking_department, sorter_first_slot_date)
 ```
 
-## Animation - cell sorter booking system example
+## Animation - booking system example
 
 
 
